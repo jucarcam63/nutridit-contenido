@@ -14,6 +14,8 @@ Repositorio de trabajo para crear contenido de nutrición para **Nutridit**: pub
   - `KB-07` Límites clínicos, RGPD y publicidad
   - `KB-08` Rutas de conversión: cita y paquete
   - `KB-09` Plataforma web: reserva y pago
+- `docs/` — Material de apoyo:
+  - `Compruebalo_tu_mismo.pdf` Guía práctica «Compruébalo tú mismo» (edición 2026): qué puede verificar el paciente por su cuenta, con fuentes oficiales. Útil como cantera de temas.
 
 ## Uso
 
